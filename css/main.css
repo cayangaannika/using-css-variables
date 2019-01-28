@@ -12,7 +12,7 @@ html {
 .card {
   max-width: 24em;
 
-  border: 3px solid red var(--color-primary);
+  border: 3px solid var(--color-primary);
   border-radius: var(--border-radius);
 }
 
